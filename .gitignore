@@ -3,3 +3,5 @@ lib
 db.sqlite3
 /media
 conf
+measure_dimensions/migrations/*
+measure_dimensions/__pycache__
