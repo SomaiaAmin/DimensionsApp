@@ -9,7 +9,7 @@ html5lib==0.90
 imutils==0.5.3
 jmespath==0.9.3
 libsass==0.15.1
-lxml==4.2.5
+lxml==4.6.3
 Markdown==2.6.9
 MarkupSafe==0.23
 meson==0.51.0
